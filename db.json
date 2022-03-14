@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "12345678",
+      "body": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "json-server3",
+      "body": "typicode"
+    },
+    {
+      "title": "7788",
+      "body": "2345678",
+      "id": 4
+    },
+    {
+      "title": "55555",
+      "body": "21",
+      "id": 5
+    }
+  ]
+}
